@@ -12,5 +12,5 @@ ROOT_DIR = os.path.abspath("../../") > abspath("C:/Users/julia/anaconda3/envs/rc
 COCO_WEIGHTS_PATH = os.path.join(ROOT_DIR, "mask_rcnn_coco.h5")  >  join(ROOT_DIR, "C:/Users/julia/anaconda3/envs/rcnn/Mask_RCNN/mask_rcnn_coco.h5"
 
 ## train result img
-![Uploading splash_20231121T230054.png…]()
+![splash_20231121T230054](https://github.com/jioji0/Mask_RCNN/assets/86821510/4d51ad52-e8d1-4ef3-8c4a-434c324d3e8e)
 
