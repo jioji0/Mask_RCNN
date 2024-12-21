@@ -35,7 +35,7 @@ import numpy as np
 import skimage.draw
 
 # Root directory of the project
-ROOT_DIR = os.path.abspath("C:/Users/julia/anaconda3/envs/rcnn/Mask_RCNN")
+ROOT_DIR = os.path.abspath("../anaconda3/envs/rcnn/Mask_RCNN")
 
 # Import Mask RCNN
 sys.path.append(ROOT_DIR)  # To find local version of the library
