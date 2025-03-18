@@ -28,4 +28,12 @@ python "ROOT_DIR/samples/balloon/balloon.py" splash --weights="ROOT_DIR/samples/
 ```
 <br>
 
+## 풍선 검출 과정
+
+84번째 줄 부터 참고
+VIA(VGG Image Annotator)툴을 사용해 이미지를 처리한다.
+주석 안의 내용처럼 x,y의 정보로 외곽선을 검출하고 이를 json형태로 바꿔준다.
+load_mask() 메소드에서 폴리곤을 마스크로 바꿔준다.
+
+
 
